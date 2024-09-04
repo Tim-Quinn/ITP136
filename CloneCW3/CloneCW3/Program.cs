@@ -5,7 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Is it still working");
+            Console.WriteLine("Please enter your username: ");
+            string userName = Console.ReadLine();
+
+            Console.WriteLine("Your username is: " + userName);
         }
     }
 }

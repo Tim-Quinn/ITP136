@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloneCW3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76d716ec5e61de4fb5c7b989bd60bdb30dcb4390")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7ed2b26c9eacef0861fcc099cf3803b9eb56d9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloneCW3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloneCW3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
