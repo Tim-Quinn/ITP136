@@ -1,0 +1,15 @@
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\bin\Debug\net8.0\CloneCW3.exe
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\bin\Debug\net8.0\CloneCW3.deps.json
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\bin\Debug\net8.0\CloneCW3.runtimeconfig.json
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\bin\Debug\net8.0\CloneCW3.dll
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\bin\Debug\net8.0\CloneCW3.pdb
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\obj\Debug\net8.0\CloneCW3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\obj\Debug\net8.0\CloneCW3.AssemblyInfoInputs.cache
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\obj\Debug\net8.0\CloneCW3.AssemblyInfo.cs
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\obj\Debug\net8.0\CloneCW3.csproj.CoreCompileInputs.cache
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\obj\Debug\net8.0\CloneCW3.sourcelink.json
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\obj\Debug\net8.0\CloneCW3.dll
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\obj\Debug\net8.0\refint\CloneCW3.dll
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\obj\Debug\net8.0\CloneCW3.pdb
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\obj\Debug\net8.0\CloneCW3.genruntimeconfig.cache
+C:\Users\chopp\source\repos\ITP136\CloneCW3\CloneCW3\obj\Debug\net8.0\ref\CloneCW3.dll
