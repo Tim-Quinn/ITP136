@@ -1,0 +1,15 @@
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\bin\Debug\net8.0\ITP136.exe
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\bin\Debug\net8.0\ITP136.deps.json
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\bin\Debug\net8.0\ITP136.runtimeconfig.json
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\bin\Debug\net8.0\ITP136.dll
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\bin\Debug\net8.0\ITP136.pdb
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\obj\Debug\net8.0\ITP136.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\obj\Debug\net8.0\ITP136.AssemblyInfoInputs.cache
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\obj\Debug\net8.0\ITP136.AssemblyInfo.cs
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\obj\Debug\net8.0\ITP136.csproj.CoreCompileInputs.cache
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\obj\Debug\net8.0\ITP136.sourcelink.json
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\obj\Debug\net8.0\ITP136.dll
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\obj\Debug\net8.0\refint\ITP136.dll
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\obj\Debug\net8.0\ITP136.pdb
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\obj\Debug\net8.0\ITP136.genruntimeconfig.cache
+C:\Users\chopp\source\repos\ITP136\ITP136\ITP136\obj\Debug\net8.0\ref\ITP136.dll
