@@ -1,27 +1,61 @@
-﻿namespace Week3CW
+﻿using System;
+
+namespace Week3CW
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            double a, b, c;
+           List<int> even = new List<int>();
+           List<int> odd = new List<int>();
 
-            string inputString;
+            for (int i = 0; i <= 20; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    even.Add(i);
+                }
+                else
+                {
+                    odd.Add(i);
+                }
 
-            Console.WriteLine("Enter your name: ");
-            inputString = Console.ReadLine();
+            }
 
-            Console.WriteLine("Enter your first number: ");
-            inputString = Console.ReadLine();
-            a = Convert.ToDouble(inputString);
+            foreach (int i in even)
+            {
+                if (i == even.First())
+                {
+                  
+                }
+                else
+                {
+                    Console.Write(" ");
+                }
+                Console.Write(i);
+            }
+            Console.WriteLine();
 
-            Console.WriteLine("Enter your second number: ");
-            b = Convert.ToDouble(Console.ReadLine());
+            foreach (int i in odd)
+            {
+                if (i == odd.First())
+                {
+
+                }
+                else
+                {
+                    Console.Write(" ");
+                }
+                    Console.Write(i);
+                
+            }
 
 
-            double total = a + b;
-            Console.WriteLine(total);
+           
+            
 
+
+            
         }
     }
 }

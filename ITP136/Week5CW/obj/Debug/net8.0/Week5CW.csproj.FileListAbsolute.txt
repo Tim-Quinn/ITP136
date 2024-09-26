@@ -1,0 +1,15 @@
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\bin\Debug\net8.0\Week5CW.exe
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\bin\Debug\net8.0\Week5CW.deps.json
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\bin\Debug\net8.0\Week5CW.runtimeconfig.json
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\bin\Debug\net8.0\Week5CW.dll
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\bin\Debug\net8.0\Week5CW.pdb
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\obj\Debug\net8.0\Week5CW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\obj\Debug\net8.0\Week5CW.AssemblyInfoInputs.cache
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\obj\Debug\net8.0\Week5CW.AssemblyInfo.cs
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\obj\Debug\net8.0\Week5CW.csproj.CoreCompileInputs.cache
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\obj\Debug\net8.0\Week5CW.sourcelink.json
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\obj\Debug\net8.0\Week5CW.dll
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\obj\Debug\net8.0\refint\Week5CW.dll
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\obj\Debug\net8.0\Week5CW.pdb
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\obj\Debug\net8.0\Week5CW.genruntimeconfig.cache
+C:\Users\chopp\source\repos\ITP136\ITP136\Week5CW\obj\Debug\net8.0\ref\Week5CW.dll

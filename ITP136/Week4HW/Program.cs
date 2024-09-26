@@ -58,7 +58,7 @@ namespace Week4HW
 
                     WriteLine("\nTotal cost:{0} ", totalCost.ToString("C"));
 
-                break;
+                    break;
 
                 case 2:
                     WriteLine("\nIs this appointment for a child or an adult?: ");
@@ -82,14 +82,14 @@ namespace Week4HW
 
                     WriteLine("\nTotal cost:{0} ", totalCost.ToString("C"));
 
-                break;
+                    break;
 
                 default:
                     WriteLine("You entered an invalid option.");
                     break;
 
             }
-                        
+
         }
     }
 }
