@@ -1,0 +1,15 @@
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\bin\Debug\net8.0\Midterm.exe
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\bin\Debug\net8.0\Midterm.deps.json
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\bin\Debug\net8.0\Midterm.runtimeconfig.json
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\bin\Debug\net8.0\Midterm.dll
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\bin\Debug\net8.0\Midterm.pdb
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\obj\Debug\net8.0\Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\obj\Debug\net8.0\Midterm.AssemblyInfoInputs.cache
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\obj\Debug\net8.0\Midterm.AssemblyInfo.cs
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\obj\Debug\net8.0\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\obj\Debug\net8.0\Midterm.sourcelink.json
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\obj\Debug\net8.0\Midterm.dll
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\obj\Debug\net8.0\refint\Midterm.dll
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\obj\Debug\net8.0\Midterm.pdb
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\obj\Debug\net8.0\Midterm.genruntimeconfig.cache
+C:\Users\chopp\source\repos\ITP136\ITP136\Midterm\obj\Debug\net8.0\ref\Midterm.dll

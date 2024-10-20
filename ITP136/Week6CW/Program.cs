@@ -9,6 +9,8 @@ namespace Week6CW
 
             int a, b;
 
+            a = 5;
+
             welcomeMessage();
 
             for (int k = 0; k < 3; k++)
