@@ -1,0 +1,15 @@
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\obj\Debug\net8.0\Week13HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\obj\Debug\net8.0\Week13HW.AssemblyInfoInputs.cache
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\obj\Debug\net8.0\Week13HW.AssemblyInfo.cs
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\obj\Debug\net8.0\Week13HW.csproj.CoreCompileInputs.cache
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\obj\Debug\net8.0\Week13HW.sourcelink.json
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\bin\Debug\net8.0\Week13HW.exe
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\bin\Debug\net8.0\Week13HW.deps.json
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\bin\Debug\net8.0\Week13HW.runtimeconfig.json
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\bin\Debug\net8.0\Week13HW.dll
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\bin\Debug\net8.0\Week13HW.pdb
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\obj\Debug\net8.0\Week13HW.dll
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\obj\Debug\net8.0\refint\Week13HW.dll
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\obj\Debug\net8.0\Week13HW.pdb
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\obj\Debug\net8.0\Week13HW.genruntimeconfig.cache
+C:\Users\chopp\source\repos\ITP136\ITP136\Week13HW\obj\Debug\net8.0\ref\Week13HW.dll
